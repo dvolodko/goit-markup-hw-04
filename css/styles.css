@@ -169,12 +169,6 @@ p {
 	margin-right: 10px;
 }
 
-.auth-nav-link {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-}
-
 .header-nav:not(:last-child) {
 	margin-right: 50px;
 }
@@ -182,6 +176,9 @@ p {
 /* ------- AUTH NAV ------- */
 
 .auth-nav-link {
+	display: flex;
+	align-items: center;
+	justify-content: center;
 	font-weight: 500;
 	font-size: 14px;
 	line-height: 1.14;
