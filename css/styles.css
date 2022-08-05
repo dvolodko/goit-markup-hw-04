@@ -426,11 +426,6 @@ p {
 	margin-bottom: 30px;
 }
 
-.portfolio-card-link {
-	box-shadow: -4px -4px -4px -4px red;
-	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
-}
-
 .portfolio-card-link:hover,
 .portfolio-card-link:focus {
 	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
